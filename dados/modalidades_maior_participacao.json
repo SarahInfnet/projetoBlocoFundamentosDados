@@ -1,0 +1,3062 @@
+[
+    {
+        "modality":"Football Men's Football",
+        "total":5733
+    },
+    {
+        "modality":"Ice Hockey Men's Ice Hockey",
+        "total":4762
+    },
+    {
+        "modality":"Hockey Men's Hockey",
+        "total":3958
+    },
+    {
+        "modality":"Water Polo Men's Water Polo",
+        "total":3358
+    },
+    {
+        "modality":"Basketball Men's Basketball",
+        "total":3280
+    },
+    {
+        "modality":"Cycling Men's Road Race, Individual",
+        "total":2947
+    },
+    {
+        "modality":"Gymnastics Men's Individual All-Around",
+        "total":2500
+    },
+    {
+        "modality":"Rowing Men's Coxed Eights",
+        "total":2423
+    },
+    {
+        "modality":"Gymnastics Men's Team All-Around",
+        "total":2411
+    },
+    {
+        "modality":"Handball Men's Handball",
+        "total":2264
+    },
+    {
+        "modality":"Athletics Men's Marathon",
+        "total":2093
+    },
+    {
+        "modality":"Gymnastics Men's Parallel Bars",
+        "total":2049
+    },
+    {
+        "modality":"Gymnastics Men's Horizontal Bar",
+        "total":2041
+    },
+    {
+        "modality":"Gymnastics Men's Pommelled Horse",
+        "total":2031
+    },
+    {
+        "modality":"Gymnastics Men's Rings",
+        "total":2020
+    },
+    {
+        "modality":"Athletics Men's 100 metres",
+        "total":1936
+    },
+    {
+        "modality":"Athletics Men's 4 x 100 metres Relay",
+        "total":1910
+    },
+    {
+        "modality":"Gymnastics Men's Floor Exercise",
+        "total":1880
+    },
+    {
+        "modality":"Gymnastics Men's Horse Vault",
+        "total":1868
+    },
+    {
+        "modality":"Volleyball Men's Volleyball",
+        "total":1861
+    },
+    {
+        "modality":"Athletics Men's 4 x 400 metres Relay",
+        "total":1749
+    },
+    {
+        "modality":"Bobsleigh Men's Four",
+        "total":1715
+    },
+    {
+        "modality":"Fencing Men's epee, Team",
+        "total":1689
+    },
+    {
+        "modality":"Fencing Men's epee, Individual",
+        "total":1638
+    },
+    {
+        "modality":"Alpine Skiing Men's Slalom",
+        "total":1593
+    },
+    {
+        "modality":"Swimming Men's 4 x 200 metres Freestyle Relay",
+        "total":1543
+    },
+    {
+        "modality":"Volleyball Women's Volleyball",
+        "total":1543
+    },
+    {
+        "modality":"Gymnastics Women's Individual All-Around",
+        "total":1539
+    },
+    {
+        "modality":"Alpine Skiing Men's Giant Slalom",
+        "total":1535
+    },
+    {
+        "modality":"Gymnastics Women's Balance Beam",
+        "total":1531
+    },
+    {
+        "modality":"Gymnastics Women's Uneven Bars",
+        "total":1530
+    },
+    {
+        "modality":"Gymnastics Women's Floor Exercise",
+        "total":1527
+    },
+    {
+        "modality":"Athletics Men's 200 metres",
+        "total":1495
+    },
+    {
+        "modality":"Gymnastics Women's Team All-Around",
+        "total":1484
+    },
+    {
+        "modality":"Hockey Women's Hockey",
+        "total":1459
+    },
+    {
+        "modality":"Athletics Men's 400 metres",
+        "total":1417
+    },
+    {
+        "modality":"Handball Women's Handball",
+        "total":1401
+    },
+    {
+        "modality":"Cycling Men's Team Pursuit, 4,000 metres",
+        "total":1365
+    },
+    {
+        "modality":"Fencing Men's Foil, Individual",
+        "total":1357
+    },
+    {
+        "modality":"Fencing Men's Sabre, Team",
+        "total":1347
+    },
+    {
+        "modality":"Gymnastics Women's Horse Vault",
+        "total":1336
+    },
+    {
+        "modality":"Athletics Men's 800 metres",
+        "total":1321
+    },
+    {
+        "modality":"Fencing Men's Foil, Team",
+        "total":1305
+    },
+    {
+        "modality":"Swimming Men's 100 metres Freestyle",
+        "total":1295
+    },
+    {
+        "modality":"Basketball Women's Basketball",
+        "total":1256
+    },
+    {
+        "modality":"Swimming Men's 4 x 100 metres Medley Relay",
+        "total":1242
+    },
+    {
+        "modality":"Fencing Men's Sabre, Individual",
+        "total":1230
+    },
+    {
+        "modality":"Swimming Women's 4 x 100 metres Freestyle Relay",
+        "total":1225
+    },
+    {
+        "modality":"Rowing Men's Coxed Fours",
+        "total":1200
+    },
+    {
+        "modality":"Athletics Women's 4 x 100 metres Relay",
+        "total":1174
+    },
+    {
+        "modality":"Alpine Skiing Men's Downhill",
+        "total":1164
+    },
+    {
+        "modality":"Athletics Men's 1,500 metres",
+        "total":1162
+    },
+    {
+        "modality":"Ski Jumping Men's Normal Hill, Individual",
+        "total":1151
+    },
+    {
+        "modality":"Cross Country Skiing Men's 4 x 10 kilometres Relay",
+        "total":1114
+    },
+    {
+        "modality":"Rowing Men's Coxless Fours",
+        "total":1107
+    },
+    {
+        "modality":"Cross Country Skiing Men's 50 kilometres",
+        "total":1100
+    },
+    {
+        "modality":"Cycling Men's 100 kilometres Team Time Trial",
+        "total":1069
+    },
+    {
+        "modality":"Athletics Women's 100 metres",
+        "total":1063
+    },
+    {
+        "modality":"Swimming Women's 4 x 100 metres Medley Relay",
+        "total":1060
+    },
+    {
+        "modality":"Bobsleigh Men's Two",
+        "total":1045
+    },
+    {
+        "modality":"Equestrianism Mixed Jumping, Individual",
+        "total":1018
+    },
+    {
+        "modality":"Biathlon Men's 20 kilometres",
+        "total":1018
+    },
+    {
+        "modality":"Football Women's Football",
+        "total":1012
+    },
+    {
+        "modality":"Modern Pentathlon Men's Individual",
+        "total":1006
+    },
+    {
+        "modality":"Cross Country Skiing Men's 15 kilometres",
+        "total":1000
+    },
+    {
+        "modality":"Athletics Men's 5,000 metres",
+        "total":982
+    },
+    {
+        "modality":"Shooting Men's Small-Bore Rifle, Prone, 50 metres",
+        "total":971
+    },
+    {
+        "modality":"Alpine Skiing Women's Slalom",
+        "total":966
+    },
+    {
+        "modality":"Alpine Skiing Women's Giant Slalom",
+        "total":961
+    },
+    {
+        "modality":"Athletics Men's Long Jump",
+        "total":954
+    },
+    {
+        "modality":"Swimming Women's 100 metres Freestyle",
+        "total":947
+    },
+    {
+        "modality":"Swimming Men's 4 x 100 metres Freestyle Relay",
+        "total":937
+    },
+    {
+        "modality":"Swimming Men's 400 metres Freestyle",
+        "total":928
+    },
+    {
+        "modality":"Sailing Mixed Three Person Keelboat",
+        "total":927
+    },
+    {
+        "modality":"Equestrianism Mixed Jumping, Team",
+        "total":911
+    },
+    {
+        "modality":"Athletics Men's 110 metres Hurdles",
+        "total":896
+    },
+    {
+        "modality":"Baseball Men's Baseball",
+        "total":894
+    },
+    {
+        "modality":"Cross Country Skiing Men's 30 kilometres",
+        "total":892
+    },
+    {
+        "modality":"Speed Skating Men's 1,500 metres",
+        "total":885
+    },
+    {
+        "modality":"Biathlon Men's 4 x 7.5 kilometres Relay",
+        "total":884
+    },
+    {
+        "modality":"Swimming Men's 200 metres Breaststroke",
+        "total":868
+    },
+    {
+        "modality":"Athletics Men's High Jump",
+        "total":865
+    },
+    {
+        "modality":"Athletics Men's 10,000 metres",
+        "total":850
+    },
+    {
+        "modality":"Swimming Men's 100 metres Backstroke",
+        "total":850
+    },
+    {
+        "modality":"Athletics Men's Triple Jump",
+        "total":847
+    },
+    {
+        "modality":"Speed Skating Men's 500 metres",
+        "total":842
+    },
+    {
+        "modality":"Canoeing Men's Kayak Fours, 1,000 metres",
+        "total":836
+    },
+    {
+        "modality":"Athletics Men's Discus Throw",
+        "total":834
+    },
+    {
+        "modality":"Athletics Men's 400 metres Hurdles",
+        "total":821
+    },
+    {
+        "modality":"Fencing Women's Foil, Individual",
+        "total":819
+    },
+    {
+        "modality":"Shooting Men's Free Pistol, 50 metres",
+        "total":818
+    },
+    {
+        "modality":"Ski Jumping Men's Large Hill, Individual",
+        "total":810
+    },
+    {
+        "modality":"Tennis Men's Singles",
+        "total":786
+    },
+    {
+        "modality":"Equestrianism Mixed Three-Day Event, Individual",
+        "total":783
+    },
+    {
+        "modality":"Biathlon Men's 10 kilometres Sprint",
+        "total":773
+    },
+    {
+        "modality":"Athletics Men's 50 kilometres Walk",
+        "total":773
+    },
+    {
+        "modality":"Nordic Combined Men's Individual",
+        "total":772
+    },
+    {
+        "modality":"Athletics Women's 200 metres",
+        "total":765
+    },
+    {
+        "modality":"Ice Hockey Women's Ice Hockey",
+        "total":754
+    },
+    {
+        "modality":"Tennis Men's Doubles",
+        "total":750
+    },
+    {
+        "modality":"Athletics Women's 4 x 400 metres Relay",
+        "total":749
+    },
+    {
+        "modality":"Cycling Men's Sprint",
+        "total":748
+    },
+    {
+        "modality":"Athletics Women's Marathon",
+        "total":745
+    },
+    {
+        "modality":"Equestrianism Mixed Three-Day Event, Team",
+        "total":739
+    },
+    {
+        "modality":"Athletics Men's Decathlon",
+        "total":735
+    },
+    {
+        "modality":"Archery Men's Individual",
+        "total":735
+    },
+    {
+        "modality":"Speed Skating Men's 5,000 metres",
+        "total":730
+    },
+    {
+        "modality":"Athletics Men's 3,000 metres Steeplechase",
+        "total":726
+    },
+    {
+        "modality":"Swimming Men's 1,500 metres Freestyle",
+        "total":720
+    },
+    {
+        "modality":"Alpine Skiing Women's Downhill",
+        "total":708
+    },
+    {
+        "modality":"Rowing Women's Coxed Eights",
+        "total":706
+    },
+    {
+        "modality":"Figure Skating Mixed Pairs",
+        "total":704
+    },
+    {
+        "modality":"Diving Men's Springboard",
+        "total":699
+    },
+    {
+        "modality":"Athletics Men's Javelin Throw",
+        "total":698
+    },
+    {
+        "modality":"Swimming Men's 200 metres Freestyle",
+        "total":697
+    },
+    {
+        "modality":"Diving Men's Platform",
+        "total":695
+    },
+    {
+        "modality":"Swimming Women's 100 metres Backstroke",
+        "total":688
+    },
+    {
+        "modality":"Athletics Men's 20 kilometres Walk",
+        "total":686
+    },
+    {
+        "modality":"Athletics Men's Shot Put",
+        "total":684
+    },
+    {
+        "modality":"Canoeing Men's Kayak Doubles, 1,000 metres",
+        "total":682
+    },
+    {
+        "modality":"Cycling Men's Road Race, Team",
+        "total":674
+    },
+    {
+        "modality":"Boxing Men's Lightweight",
+        "total":673
+    },
+    {
+        "modality":"Athletics Men's Pole Vault",
+        "total":667
+    },
+    {
+        "modality":"Swimming Men's 100 metres Butterfly",
+        "total":667
+    },
+    {
+        "modality":"Cross Country Skiing Women's 10 kilometres",
+        "total":667
+    },
+    {
+        "modality":"Boxing Men's Welterweight",
+        "total":658
+    },
+    {
+        "modality":"Athletics Men's Hammer Throw",
+        "total":651
+    },
+    {
+        "modality":"Archery Women's Individual",
+        "total":650
+    },
+    {
+        "modality":"Sailing Mixed Two Person Keelboat",
+        "total":650
+    },
+    {
+        "modality":"Equestrianism Mixed Dressage, Individual",
+        "total":650
+    },
+    {
+        "modality":"Boxing Men's Bantamweight",
+        "total":647
+    },
+    {
+        "modality":"Swimming Women's 200 metres Breaststroke",
+        "total":644
+    },
+    {
+        "modality":"Swimming Men's 100 metres Breaststroke",
+        "total":638
+    },
+    {
+        "modality":"Swimming Women's 400 metres Freestyle",
+        "total":628
+    },
+    {
+        "modality":"Rowing Men's Coxed Pairs",
+        "total":625
+    },
+    {
+        "modality":"Shooting Men's Rapid-Fire Pistol, 25 metres",
+        "total":623
+    },
+    {
+        "modality":"Rowing Men's Coxless Pairs",
+        "total":622
+    },
+    {
+        "modality":"Shooting Men's Small-Bore Rifle, Three Positions, 50 metres",
+        "total":619
+    },
+    {
+        "modality":"Boxing Men's Featherweight",
+        "total":613
+    },
+    {
+        "modality":"Shooting Men's Trap",
+        "total":610
+    },
+    {
+        "modality":"Swimming Men's 50 metres Freestyle",
+        "total":610
+    },
+    {
+        "modality":"Fencing Women's Foil, Team",
+        "total":608
+    },
+    {
+        "modality":"Boxing Men's Flyweight",
+        "total":605
+    },
+    {
+        "modality":"Rowing Men's Double Sculls",
+        "total":595
+    },
+    {
+        "modality":"Athletics Women's 400 metres",
+        "total":594
+    },
+    {
+        "modality":"Art Competitions Mixed Painting, Unknown Event",
+        "total":583
+    },
+    {
+        "modality":"Swimming Women's 100 metres Butterfly",
+        "total":578
+    },
+    {
+        "modality":"Cross Country Skiing Women's 4 x 5 kilometres Relay",
+        "total":576
+    },
+    {
+        "modality":"Athletics Women's Long Jump",
+        "total":573
+    },
+    {
+        "modality":"Alpine Skiing Men's Super G",
+        "total":570
+    },
+    {
+        "modality":"Tennis Women's Singles",
+        "total":570
+    },
+    {
+        "modality":"Alpine Skiing Men's Combined",
+        "total":569
+    },
+    {
+        "modality":"Athletics Women's High Jump",
+        "total":569
+    },
+    {
+        "modality":"Swimming Men's 200 metres Butterfly",
+        "total":568
+    },
+    {
+        "modality":"Sailing Mixed One Person Dinghy",
+        "total":567
+    },
+    {
+        "modality":"Athletics Women's 800 metres",
+        "total":555
+    },
+    {
+        "modality":"Figure Skating Women's Singles",
+        "total":555
+    },
+    {
+        "modality":"Swimming Women's 50 metres Freestyle",
+        "total":554
+    },
+    {
+        "modality":"Rowing Men's Quadruple Sculls",
+        "total":550
+    },
+    {
+        "modality":"Boxing Men's Middleweight",
+        "total":544
+    },
+    {
+        "modality":"Luge Men's Singles",
+        "total":540
+    },
+    {
+        "modality":"Cycling Women's Road Race, Individual",
+        "total":537
+    },
+    {
+        "modality":"Table Tennis Men's Singles",
+        "total":536
+    },
+    {
+        "modality":"Biathlon Women's 7.5 kilometres Sprint",
+        "total":531
+    },
+    {
+        "modality":"Boxing Men's Light-Welterweight",
+        "total":528
+    },
+    {
+        "modality":"Swimming Women's 100 metres Breaststroke",
+        "total":527
+    },
+    {
+        "modality":"Luge Mixed (Men)'s Doubles",
+        "total":526
+    },
+    {
+        "modality":"Biathlon Women's 15 kilometres",
+        "total":523
+    },
+    {
+        "modality":"Diving Women's Springboard",
+        "total":522
+    },
+    {
+        "modality":"Wrestling Men's Lightweight, Greco-Roman",
+        "total":518
+    },
+    {
+        "modality":"Table Tennis Women's Singles",
+        "total":518
+    },
+    {
+        "modality":"Swimming Men's 200 metres Backstroke",
+        "total":517
+    },
+    {
+        "modality":"Speed Skating Men's 10,000 metres",
+        "total":510
+    },
+    {
+        "modality":"Athletics Women's Discus Throw",
+        "total":509
+    },
+    {
+        "modality":"Modern Pentathlon Men's Team",
+        "total":507
+    },
+    {
+        "modality":"Figure Skating Men's Singles",
+        "total":506
+    },
+    {
+        "modality":"Cross Country Skiing Women's 5 kilometres",
+        "total":501
+    },
+    {
+        "modality":"Athletics Women's Javelin Throw",
+        "total":500
+    },
+    {
+        "modality":"Tennis Women's Doubles",
+        "total":500
+    },
+    {
+        "modality":"Speed Skating Women's 1,000 metres",
+        "total":497
+    },
+    {
+        "modality":"Swimming Women's 200 metres Freestyle",
+        "total":497
+    },
+    {
+        "modality":"Swimming Men's 200 metres Individual Medley",
+        "total":496
+    },
+    {
+        "modality":"Equestrianism Mixed Dressage, Team",
+        "total":496
+    },
+    {
+        "modality":"Water Polo Women's Water Polo",
+        "total":488
+    },
+    {
+        "modality":"Diving Women's Platform",
+        "total":488
+    },
+    {
+        "modality":"Boxing Men's Light-Heavyweight",
+        "total":488
+    },
+    {
+        "modality":"Sailing Men's Two Person Dinghy",
+        "total":480
+    },
+    {
+        "modality":"Weightlifting Men's Lightweight",
+        "total":478
+    },
+    {
+        "modality":"Softball Women's Softball",
+        "total":478
+    },
+    {
+        "modality":"Wrestling Men's Featherweight, Greco-Roman",
+        "total":475
+    },
+    {
+        "modality":"Speed Skating Women's 1,500 metres",
+        "total":474
+    },
+    {
+        "modality":"Weightlifting Men's Featherweight",
+        "total":470
+    },
+    {
+        "modality":"Canoeing Men's Canadian Doubles, 1,000 metres",
+        "total":468
+    },
+    {
+        "modality":"Speed Skating Women's 500 metres",
+        "total":467
+    },
+    {
+        "modality":"Weightlifting Men's Middleweight",
+        "total":467
+    },
+    {
+        "modality":"Rowing Men's Single Sculls",
+        "total":463
+    },
+    {
+        "modality":"Swimming Women's 4 x 200 metres Freestyle Relay",
+        "total":462
+    },
+    {
+        "modality":"Figure Skating Mixed Ice Dancing",
+        "total":456
+    },
+    {
+        "modality":"Speed Skating Men's 1,000 metres",
+        "total":450
+    },
+    {
+        "modality":"Wrestling Men's Lightweight, Freestyle",
+        "total":449
+    },
+    {
+        "modality":"Sailing Mixed Two Person Heavyweight Dinghy",
+        "total":448
+    },
+    {
+        "modality":"Weightlifting Men's Light-Heavyweight",
+        "total":446
+    },
+    {
+        "modality":"Wrestling Men's Featherweight, Freestyle",
+        "total":444
+    },
+    {
+        "modality":"Swimming Men's 400 metres Individual Medley",
+        "total":444
+    },
+    {
+        "modality":"Wrestling Men's Middleweight, Greco-Roman",
+        "total":442
+    },
+    {
+        "modality":"Equestrianism Men's Three-Day Event, Individual",
+        "total":439
+    },
+    {
+        "modality":"Wrestling Men's Welterweight, Freestyle",
+        "total":430
+    },
+    {
+        "modality":"Judo Men's Lightweight",
+        "total":429
+    },
+    {
+        "modality":"Shooting Men's Air Rifle, 10 metres",
+        "total":429
+    },
+    {
+        "modality":"Canoeing Women's Kayak Fours, 500 metres",
+        "total":428
+    },
+    {
+        "modality":"Athletics Women's 1,500 metres",
+        "total":427
+    },
+    {
+        "modality":"Swimming Women's 200 metres Backstroke",
+        "total":422
+    },
+    {
+        "modality":"Wrestling Men's Middleweight, Freestyle",
+        "total":421
+    },
+    {
+        "modality":"Canoeing Women's Kayak Doubles, 500 metres",
+        "total":420
+    },
+    {
+        "modality":"Shooting Women's Air Rifle, 10 metres",
+        "total":419
+    },
+    {
+        "modality":"Synchronized Swimming Women's Team",
+        "total":418
+    },
+    {
+        "modality":"Cycling Men's 1,000 metres Time Trial",
+        "total":417
+    },
+    {
+        "modality":"Athletics Women's 100 metres Hurdles",
+        "total":417
+    },
+    {
+        "modality":"Shooting Mixed Skeet",
+        "total":410
+    },
+    {
+        "modality":"Ski Jumping Men's Large Hill, Team",
+        "total":410
+    },
+    {
+        "modality":"Swimming Women's 200 metres Individual Medley",
+        "total":409
+    },
+    {
+        "modality":"Equestrianism Men's Three-Day Event, Team",
+        "total":408
+    },
+    {
+        "modality":"Speed Skating Women's 3,000 metres",
+        "total":406
+    },
+    {
+        "modality":"Judo Men's Middleweight",
+        "total":403
+    },
+    {
+        "modality":"Judo Men's Half-Middleweight",
+        "total":402
+    },
+    {
+        "modality":"Alpine Skiing Women's Super G",
+        "total":402
+    },
+    {
+        "modality":"Wrestling Men's Light-Heavyweight, Greco-Roman",
+        "total":398
+    },
+    {
+        "modality":"Athletics Women's Shot Put",
+        "total":397
+    },
+    {
+        "modality":"Canoeing Men's Kayak Singles, 1,000 metres",
+        "total":396
+    },
+    {
+        "modality":"Cross Country Skiing Women's 30 kilometres",
+        "total":394
+    },
+    {
+        "modality":"Swimming Women's 400 metres Individual Medley",
+        "total":393
+    },
+    {
+        "modality":"Rhythmic Gymnastics Women's Group",
+        "total":385
+    },
+    {
+        "modality":"Wrestling Men's Light-Heavyweight, Freestyle",
+        "total":383
+    },
+    {
+        "modality":"Shooting Men's Free Rifle, Three Positions, 300 metres",
+        "total":382
+    },
+    {
+        "modality":"Canoeing Men's Kayak Doubles, 500 metres",
+        "total":378
+    },
+    {
+        "modality":"Swimming Women's 200 metres Butterfly",
+        "total":378
+    },
+    {
+        "modality":"Cross Country Skiing Men's 18 kilometres",
+        "total":371
+    },
+    {
+        "modality":"Weightlifting Men's Bantamweight",
+        "total":369
+    },
+    {
+        "modality":"Boxing Men's Heavyweight",
+        "total":368
+    },
+    {
+        "modality":"Wrestling Men's Heavyweight, Greco-Roman",
+        "total":367
+    },
+    {
+        "modality":"Shooting Men's Air Pistol, 10 metres",
+        "total":366
+    },
+    {
+        "modality":"Weightlifting Men's Middle-Heavyweight",
+        "total":366
+    },
+    {
+        "modality":"Luge Women's Singles",
+        "total":365
+    },
+    {
+        "modality":"Shooting Mixed Trap",
+        "total":363
+    },
+    {
+        "modality":"Alpine Skiing Women's Combined",
+        "total":361
+    },
+    {
+        "modality":"Wrestling Men's Welterweight, Greco-Roman",
+        "total":360
+    },
+    {
+        "modality":"Archery Men's Team",
+        "total":360
+    },
+    {
+        "modality":"Sailing Mixed Multihull",
+        "total":357
+    },
+    {
+        "modality":"Judo Men's Half-Lightweight",
+        "total":355
+    },
+    {
+        "modality":"Judo Men's Half-Heavyweight",
+        "total":355
+    },
+    {
+        "modality":"Boxing Men's Light-Flyweight",
+        "total":354
+    },
+    {
+        "modality":"Boxing Men's Light-Middleweight",
+        "total":351
+    },
+    {
+        "modality":"Shooting Women's Air Pistol, 10 metres",
+        "total":348
+    },
+    {
+        "modality":"Swimming Women's 800 metres Freestyle",
+        "total":347
+    },
+    {
+        "modality":"Wrestling Men's Heavyweight, Freestyle",
+        "total":343
+    },
+    {
+        "modality":"Synchronized Swimming Women's Duet",
+        "total":342
+    },
+    {
+        "modality":"Shooting Women's Sporting Pistol, 25 metres",
+        "total":342
+    },
+    {
+        "modality":"Judo Men's Extra-Lightweight",
+        "total":341
+    },
+    {
+        "modality":"Shooting Women's Small-Bore Rifle, Three Positions, 50 metres",
+        "total":339
+    },
+    {
+        "modality":"Wrestling Men's Bantamweight, Greco-Roman",
+        "total":337
+    },
+    {
+        "modality":"Wrestling Men's Bantamweight, Freestyle",
+        "total":335
+    },
+    {
+        "modality":"Rowing Men's Lightweight Coxless Fours",
+        "total":334
+    },
+    {
+        "modality":"Judo Men's Heavyweight",
+        "total":332
+    },
+    {
+        "modality":"Sailing Mixed 6 metres",
+        "total":327
+    },
+    {
+        "modality":"Archery Women's Team",
+        "total":324
+    },
+    {
+        "modality":"Table Tennis Men's Doubles",
+        "total":322
+    },
+    {
+        "modality":"Shooting Mixed Small-Bore Rifle, Prone, 50 metres",
+        "total":321
+    },
+    {
+        "modality":"Sailing Women's Two Person Dinghy",
+        "total":316
+    },
+    {
+        "modality":"Sailing Men's Windsurfer",
+        "total":306
+    },
+    {
+        "modality":"Badminton Women's Doubles",
+        "total":306
+    },
+    {
+        "modality":"Equestrianism Men's Jumping, Individual",
+        "total":305
+    },
+    {
+        "modality":"Badminton Women's Singles",
+        "total":304
+    },
+    {
+        "modality":"Athletics Women's 400 metres Hurdles",
+        "total":302
+    },
+    {
+        "modality":"Nordic Combined Men's Team",
+        "total":301
+    },
+    {
+        "modality":"Weightlifting Men's Heavyweight",
+        "total":299
+    },
+    {
+        "modality":"Cross Country Skiing Men's Sprint",
+        "total":299
+    },
+    {
+        "modality":"Cycling Men's Tandem Sprint, 2,000 metres",
+        "total":298
+    },
+    {
+        "modality":"Athletics Women's 20 kilometres Walk",
+        "total":297
+    },
+    {
+        "modality":"Canoeing Women's Kayak Singles, 500 metres",
+        "total":295
+    },
+    {
+        "modality":"Cross Country Skiing Men's 10 kilometres",
+        "total":294
+    },
+    {
+        "modality":"Badminton Men's Doubles",
+        "total":294
+    },
+    {
+        "modality":"Badminton Men's Singles",
+        "total":293
+    },
+    {
+        "modality":"Athletics Women's Heptathlon",
+        "total":293
+    },
+    {
+        "modality":"Table Tennis Women's Doubles",
+        "total":290
+    },
+    {
+        "modality":"Beach Volleyball Men's Beach Volleyball",
+        "total":288
+    },
+    {
+        "modality":"Cycling Men's Mountainbike, Cross-Country",
+        "total":288
+    },
+    {
+        "modality":"Equestrianism Men's Jumping, Team",
+        "total":280
+    },
+    {
+        "modality":"Athletics Women's 10,000 metres",
+        "total":279
+    },
+    {
+        "modality":"Rowing Women's Quadruple Sculls",
+        "total":277
+    },
+    {
+        "modality":"Beach Volleyball Women's Beach Volleyball",
+        "total":276
+    },
+    {
+        "modality":"Cycling Men's Individual Pursuit, 4,000 metres",
+        "total":273
+    },
+    {
+        "modality":"Rhythmic Gymnastics Women's Individual",
+        "total":273
+    },
+    {
+        "modality":"Triathlon Men's Olympic Distance",
+        "total":266
+    },
+    {
+        "modality":"Art Competitions Mixed Sculpturing, Unknown Event",
+        "total":265
+    },
+    {
+        "modality":"Canoeing Men's Canadian Singles, 1,000 metres",
+        "total":264
+    },
+    {
+        "modality":"Triathlon Women's Olympic Distance",
+        "total":263
+    },
+    {
+        "modality":"Canoeing Men's Canadian Doubles, 500 metres",
+        "total":262
+    },
+    {
+        "modality":"Badminton Mixed Doubles",
+        "total":260
+    },
+    {
+        "modality":"Shooting Men's Skeet",
+        "total":253
+    },
+    {
+        "modality":"Cross Country Skiing Men's 10\/15 kilometres Pursuit",
+        "total":251
+    },
+    {
+        "modality":"Sailing Men's One Person Dinghy",
+        "total":247
+    },
+    {
+        "modality":"Short Track Speed Skating Men's 5,000 metres Relay",
+        "total":247
+    },
+    {
+        "modality":"Wrestling Men's Flyweight, Freestyle",
+        "total":246
+    },
+    {
+        "modality":"Cross Country Skiing Women's Sprint",
+        "total":245
+    },
+    {
+        "modality":"Curling Men's Curling",
+        "total":241
+    },
+    {
+        "modality":"Rowing Men's Lightweight Double Sculls",
+        "total":240
+    },
+    {
+        "modality":"Short Track Speed Skating Women's 3,000 metres Relay",
+        "total":239
+    },
+    {
+        "modality":"Canoeing Men's Kayak Singles, Slalom",
+        "total":237
+    },
+    {
+        "modality":"Athletics Women's 5,000 metres",
+        "total":235
+    },
+    {
+        "modality":"Freestyle Skiing Men's Moguls",
+        "total":233
+    },
+    {
+        "modality":"Biathlon Men's 12.5 kilometres Pursuit",
+        "total":233
+    },
+    {
+        "modality":"Rowing Women's Double Sculls",
+        "total":232
+    },
+    {
+        "modality":"Cross Country Skiing Women's 15 kilometres",
+        "total":232
+    },
+    {
+        "modality":"Rowing Women's Coxless Pairs",
+        "total":228
+    },
+    {
+        "modality":"Canoeing Men's Canadian Doubles, Slalom",
+        "total":228
+    },
+    {
+        "modality":"Sailing Mixed 5.5 metres",
+        "total":228
+    },
+    {
+        "modality":"Sailing Mixed 8 metres",
+        "total":227
+    },
+    {
+        "modality":"Shooting Mixed Small-Bore Rifle, Three Positions, 50 metres",
+        "total":227
+    },
+    {
+        "modality":"Biathlon Women's 10 kilometres Pursuit",
+        "total":227
+    },
+    {
+        "modality":"Cycling Men's Points Race",
+        "total":225
+    },
+    {
+        "modality":"Cycling Men's Individual Time Trial",
+        "total":225
+    },
+    {
+        "modality":"Fencing Women's epee, Individual",
+        "total":224
+    },
+    {
+        "modality":"Curling Women's Curling",
+        "total":222
+    },
+    {
+        "modality":"Wrestling Men's Flyweight, Greco-Roman",
+        "total":219
+    },
+    {
+        "modality":"Shooting Men's Free Rifle, Three Positions, 300 metres, Team",
+        "total":216
+    },
+    {
+        "modality":"Biathlon Women's 4 x 6 kilometres Relay",
+        "total":216
+    },
+    {
+        "modality":"Canoeing Men's Kayak Singles, 500 metres",
+        "total":214
+    },
+    {
+        "modality":"Rowing Women's Lightweight Double Sculls",
+        "total":213
+    },
+    {
+        "modality":"Rowing Women's Single Sculls",
+        "total":212
+    },
+    {
+        "modality":"Short Track Speed Skating Men's 1,000 metres",
+        "total":211
+    },
+    {
+        "modality":"Sailing Women's One Person Dinghy",
+        "total":210
+    },
+    {
+        "modality":"Short Track Speed Skating Women's 500 metres",
+        "total":210
+    },
+    {
+        "modality":"Art Competitions Mixed Painting, Paintings",
+        "total":209
+    },
+    {
+        "modality":"Shooting Mixed Free Pistol, 50 metres",
+        "total":208
+    },
+    {
+        "modality":"Cross Country Skiing Men's 30 km Skiathlon",
+        "total":208
+    },
+    {
+        "modality":"Shooting Mixed Rapid-Fire Pistol, 25 metres",
+        "total":206
+    },
+    {
+        "modality":"Athletics Women's Triple Jump",
+        "total":200
+    },
+    {
+        "modality":"Weightlifting Men's Super-Heavyweight",
+        "total":197
+    },
+    {
+        "modality":"Biathlon Women's 4 x 7.5 kilometres Relay",
+        "total":196
+    },
+    {
+        "modality":"Athletics Women's 80 metres Hurdles",
+        "total":196
+    },
+    {
+        "modality":"Athletics Women's Hammer Throw",
+        "total":195
+    },
+    {
+        "modality":"Cross Country Skiing Women's 15 km Skiathlon",
+        "total":194
+    },
+    {
+        "modality":"Wrestling Men's Super-Heavyweight, Greco-Roman",
+        "total":192
+    },
+    {
+        "modality":"Wrestling Men's Super-Heavyweight, Freestyle",
+        "total":192
+    },
+    {
+        "modality":"Snowboarding Men's Halfpipe",
+        "total":191
+    },
+    {
+        "modality":"Freestyle Skiing Women's Moguls",
+        "total":190
+    },
+    {
+        "modality":"Sailing Women's Windsurfer",
+        "total":184
+    },
+    {
+        "modality":"Short Track Speed Skating Men's 500 metres",
+        "total":184
+    },
+    {
+        "modality":"Gymnastics Women's Team Portable Apparatus",
+        "total":182
+    },
+    {
+        "modality":"Cross Country Skiing Women's 5\/10 kilometres Pursuit",
+        "total":182
+    },
+    {
+        "modality":"Short Track Speed Skating Women's 1,000 metres",
+        "total":182
+    },
+    {
+        "modality":"Canoeing Women's Kayak Singles, Slalom",
+        "total":180
+    },
+    {
+        "modality":"Cycling Women's Mountainbike, Cross-Country",
+        "total":178
+    },
+    {
+        "modality":"Shooting Men's Trap, Team",
+        "total":178
+    },
+    {
+        "modality":"Athletics Women's Pole Vault",
+        "total":176
+    },
+    {
+        "modality":"Judo Women's Half-Middleweight",
+        "total":172
+    },
+    {
+        "modality":"Cycling Men's Team Sprint",
+        "total":172
+    },
+    {
+        "modality":"Rowing Women's Coxed Fours",
+        "total":171
+    },
+    {
+        "modality":"Tug-Of-War Men's Tug-Of-War",
+        "total":170
+    },
+    {
+        "modality":"Tennis Mixed Doubles",
+        "total":170
+    },
+    {
+        "modality":"Canoeing Men's Canadian Singles, Slalom",
+        "total":167
+    },
+    {
+        "modality":"Modern Pentathlon Women's Individual",
+        "total":164
+    },
+    {
+        "modality":"Rugby Men's Rugby",
+        "total":162
+    },
+    {
+        "modality":"Judo Women's Lightweight",
+        "total":160
+    },
+    {
+        "modality":"Judo Women's Half-Lightweight",
+        "total":159
+    },
+    {
+        "modality":"Fencing Women's epee, Team",
+        "total":158
+    },
+    {
+        "modality":"Bobsleigh Men's Four\/Five",
+        "total":155
+    },
+    {
+        "modality":"Judo Women's Extra-Lightweight",
+        "total":155
+    },
+    {
+        "modality":"Judo Women's Middleweight",
+        "total":155
+    },
+    {
+        "modality":"Rugby Sevens Men's Rugby Sevens",
+        "total":151
+    },
+    {
+        "modality":"Art Competitions Mixed Sculpturing, Statues",
+        "total":150
+    },
+    {
+        "modality":"Equestrianism Men's Dressage, Individual",
+        "total":149
+    },
+    {
+        "modality":"Synchronized Swimming Women's Solo",
+        "total":149
+    },
+    {
+        "modality":"Shooting Men's Double Trap",
+        "total":149
+    },
+    {
+        "modality":"Canoeing Men's Canadian Singles, 500 metres",
+        "total":149
+    },
+    {
+        "modality":"Rugby Sevens Women's Rugby Sevens",
+        "total":148
+    },
+    {
+        "modality":"Athletics Women's 3,000 metres Steeplechase",
+        "total":148
+    },
+    {
+        "modality":"Judo Women's Half-Heavyweight",
+        "total":147
+    },
+    {
+        "modality":"Freestyle Skiing Men's Aerials",
+        "total":147
+    },
+    {
+        "modality":"Gymnastics Men's Team All-Around, Swedish System",
+        "total":147
+    },
+    {
+        "modality":"Golf Men's Individual",
+        "total":147
+    },
+    {
+        "modality":"Gymnastics Men's Team All-Around, Free System",
+        "total":146
+    },
+    {
+        "modality":"Boxing Men's Super-Heavyweight",
+        "total":146
+    },
+    {
+        "modality":"Cycling Women's Individual Time Trial",
+        "total":146
+    },
+    {
+        "modality":"Judo Women's Heavyweight",
+        "total":145
+    },
+    {
+        "modality":"Table Tennis Women's Team",
+        "total":145
+    },
+    {
+        "modality":"Table Tennis Men's Team",
+        "total":144
+    },
+    {
+        "modality":"Speed Skating Women's 5,000 metres",
+        "total":144
+    },
+    {
+        "modality":"Bobsleigh Women's Two",
+        "total":143
+    },
+    {
+        "modality":"Weightlifting Men's Flyweight",
+        "total":141
+    },
+    {
+        "modality":"Sailing Mixed Two Person Dinghy",
+        "total":140
+    },
+    {
+        "modality":"Snowboarding Women's Halfpipe",
+        "total":140
+    },
+    {
+        "modality":"Cross Country Skiing Men's Team Sprint",
+        "total":136
+    },
+    {
+        "modality":"Freestyle Skiing Women's Aerials",
+        "total":135
+    },
+    {
+        "modality":"Skeleton Men's Skeleton",
+        "total":133
+    },
+    {
+        "modality":"Short Track Speed Skating Men's 1,500 metres",
+        "total":131
+    },
+    {
+        "modality":"Fencing Women's Sabre, Individual",
+        "total":131
+    },
+    {
+        "modality":"Athletics Men's Cross-Country, Individual",
+        "total":130
+    },
+    {
+        "modality":"Short Track Speed Skating Women's 1,500 metres",
+        "total":130
+    },
+    {
+        "modality":"Sailing Women's Three Person Keelboat",
+        "total":129
+    },
+    {
+        "modality":"Cross Country Skiing Women's 3 x 5 kilometres Relay",
+        "total":126
+    },
+    {
+        "modality":"Snowboarding Men's Parallel Giant Slalom",
+        "total":125
+    },
+    {
+        "modality":"Athletics Women's Pentathlon",
+        "total":122
+    },
+    {
+        "modality":"Art Competitions Mixed Architecture, Unknown Event",
+        "total":122
+    },
+    {
+        "modality":"Snowboarding Women's Parallel Giant Slalom",
+        "total":121
+    },
+    {
+        "modality":"Cycling Women's Sprint",
+        "total":119
+    },
+    {
+        "modality":"Gymnastics Men's Individual All-Around, Apparatus Work",
+        "total":119
+    },
+    {
+        "modality":"Rowing Women's Coxed Quadruple Sculls",
+        "total":118
+    },
+    {
+        "modality":"Gymnastics Men's Individual All-Around, Field Sports",
+        "total":118
+    },
+    {
+        "modality":"Athletics Men's Cross-Country, Team",
+        "total":116
+    },
+    {
+        "modality":"Wrestling Men's Light-Flyweight, Freestyle",
+        "total":114
+    },
+    {
+        "modality":"Canoeing Men's Kayak Doubles, 10,000 metres",
+        "total":114
+    },
+    {
+        "modality":"Athletics Men's 10 kilometres Walk",
+        "total":112
+    },
+    {
+        "modality":"Cycling Men's Keirin",
+        "total":112
+    },
+    {
+        "modality":"Wrestling Men's Light-Flyweight, Greco-Roman",
+        "total":110
+    },
+    {
+        "modality":"Sailing Mixed Skiff",
+        "total":110
+    },
+    {
+        "modality":"Art Competitions Mixed Architecture, Architectural Designs",
+        "total":109
+    },
+    {
+        "modality":"Snowboarding Men's Boardercross",
+        "total":109
+    },
+    {
+        "modality":"Weightlifting Men's Heavyweight I",
+        "total":107
+    },
+    {
+        "modality":"Shooting Men's Free Pistol, 50 metres, Team",
+        "total":105
+    },
+    {
+        "modality":"Gymnastics Men's Rope Climbing",
+        "total":100
+    },
+    {
+        "modality":"Cross Country Skiing Women's Team Sprint",
+        "total":100
+    },
+    {
+        "modality":"Athletics Men's 3,000 metres, Team",
+        "total":99
+    },
+    {
+        "modality":"Athletics Women's 3,000 metres",
+        "total":98
+    },
+    {
+        "modality":"Sailing Men's Two Person Keelboat",
+        "total":98
+    },
+    {
+        "modality":"Shooting Women's Trap",
+        "total":97
+    },
+    {
+        "modality":"Cycling Men's Madison",
+        "total":96
+    },
+    {
+        "modality":"Cycling Men's BMX",
+        "total":96
+    },
+    {
+        "modality":"Art Competitions Mixed Architecture, Designs For Town Planning",
+        "total":95
+    },
+    {
+        "modality":"Cross Country Skiing Women's 20 kilometres",
+        "total":95
+    },
+    {
+        "modality":"Weightlifting Men's Heavyweight II",
+        "total":95
+    },
+    {
+        "modality":"Polo Men's Polo",
+        "total":95
+    },
+    {
+        "modality":"Shooting Men's Running Target, Single Shot",
+        "total":94
+    },
+    {
+        "modality":"Speed Skating Women's Team Pursuit (6 laps)",
+        "total":93
+    },
+    {
+        "modality":"Speed Skating Men's Team Pursuit (8 laps)",
+        "total":92
+    },
+    {
+        "modality":"Nordic Combined Men's Large Hill \/ 10 km, Individual",
+        "total":92
+    },
+    {
+        "modality":"Judo Men's Open Class",
+        "total":91
+    },
+    {
+        "modality":"Shooting Men's Military Rifle, Three Positions, 300 metres",
+        "total":91
+    },
+    {
+        "modality":"Sailing Mixed Open",
+        "total":91
+    },
+    {
+        "modality":"Nordic Combined Men's Normal Hill \/ 10 km, Individual",
+        "total":91
+    },
+    {
+        "modality":"Biathlon Women's 12.5 kilometres Mass Start",
+        "total":90
+    },
+    {
+        "modality":"Biathlon Men's 15 kilometres Mass Start",
+        "total":90
+    },
+    {
+        "modality":"Nordic Combined Men's Sprint",
+        "total":88
+    },
+    {
+        "modality":"Shooting Men's Free Rifle, 400, 600 and 800 metres, Team",
+        "total":88
+    },
+    {
+        "modality":"Athletics Women's 10 kilometres Walk",
+        "total":88
+    },
+    {
+        "modality":"Shooting Men's Military Rifle, Any Position, 600 metres",
+        "total":85
+    },
+    {
+        "modality":"Rowing Men's 17-Man Naval Rowing Boats",
+        "total":85
+    },
+    {
+        "modality":"Cross Country Skiing Men's 10\/10 kilometres Pursuit",
+        "total":83
+    },
+    {
+        "modality":"Athletics Men's Standing Long Jump",
+        "total":82
+    },
+    {
+        "modality":"Shooting Women's Skeet",
+        "total":82
+    },
+    {
+        "modality":"Shooting Men's Running Target, 10 metres",
+        "total":81
+    },
+    {
+        "modality":"Cycling Women's Points Race",
+        "total":81
+    },
+    {
+        "modality":"Diving Women's Synchronized Springboard",
+        "total":80
+    },
+    {
+        "modality":"Diving Men's Synchronized Platform",
+        "total":80
+    },
+    {
+        "modality":"Diving Women's Synchronized Platform",
+        "total":80
+    },
+    {
+        "modality":"Diving Men's Synchronized Springboard",
+        "total":80
+    },
+    {
+        "modality":"Art Competitions Mixed Sculpturing",
+        "total":80
+    },
+    {
+        "modality":"Sailing Men's Skiff",
+        "total":80
+    },
+    {
+        "modality":"Weightlifting Women's Lightweight",
+        "total":78
+    },
+    {
+        "modality":"Taekwondo Men's Welterweight",
+        "total":78
+    },
+    {
+        "modality":"Diving Men's Plain High",
+        "total":78
+    },
+    {
+        "modality":"Taekwondo Men's Flyweight",
+        "total":77
+    },
+    {
+        "modality":"Taekwondo Men's Featherweight",
+        "total":77
+    },
+    {
+        "modality":"Trampolining Men's Individual",
+        "total":76
+    },
+    {
+        "modality":"Trampolining Women's Individual",
+        "total":76
+    },
+    {
+        "modality":"Taekwondo Women's Flyweight",
+        "total":75
+    },
+    {
+        "modality":"Taekwondo Women's Heavyweight",
+        "total":75
+    },
+    {
+        "modality":"Equestrianism Men's Dressage, Team",
+        "total":75
+    },
+    {
+        "modality":"Shooting Men's Military Rifle, Prone, 300 metres, Team",
+        "total":75
+    },
+    {
+        "modality":"Shooting Men's Military Rifle, Standing, 300 metres, Team",
+        "total":75
+    },
+    {
+        "modality":"Taekwondo Men's Heavyweight",
+        "total":75
+    },
+    {
+        "modality":"Taekwondo Women's Welterweight",
+        "total":75
+    },
+    {
+        "modality":"Swimming Women's 10 kilometres Open Water",
+        "total":75
+    },
+    {
+        "modality":"Athletics Men's Pentathlon",
+        "total":75
+    },
+    {
+        "modality":"Swimming Men's 10 kilometres Open Water",
+        "total":75
+    },
+    {
+        "modality":"Figure Skating Mixed Team",
+        "total":74
+    },
+    {
+        "modality":"Taekwondo Women's Featherweight",
+        "total":74
+    },
+    {
+        "modality":"Shooting Men's Running Target, Double Shot",
+        "total":74
+    },
+    {
+        "modality":"Shooting Mixed Running Target, 50 metres",
+        "total":74
+    },
+    {
+        "modality":"Shooting Men's Free Rifle, Prone, 600 metres",
+        "total":73
+    },
+    {
+        "modality":"Cross Country Skiing Women's 5\/5 kilometres Pursuit",
+        "total":73
+    },
+    {
+        "modality":"Canoeing Men's Kayak Relay 4 x 500 metres",
+        "total":73
+    },
+    {
+        "modality":"Shooting Men's Running Target, Single Shot, Team",
+        "total":73
+    },
+    {
+        "modality":"Gymnastics Men's Side Horse",
+        "total":73
+    },
+    {
+        "modality":"Art Competitions Mixed Painting",
+        "total":71
+    },
+    {
+        "modality":"Cycling Women's Team Pursuit",
+        "total":71
+    },
+    {
+        "modality":"Golf Women's Individual",
+        "total":70
+    },
+    {
+        "modality":"Shooting Men's Military Rifle, 300 metres and 600 metres, Prone, Team",
+        "total":70
+    },
+    {
+        "modality":"Shooting Men's Military Rifle, Prone, 600 metres, Team",
+        "total":70
+    },
+    {
+        "modality":"Snowboarding Women's Boardercross",
+        "total":69
+    },
+    {
+        "modality":"Weightlifting Women's Light-Heavyweight",
+        "total":68
+    },
+    {
+        "modality":"Cycling Men's 50 kilometres",
+        "total":68
+    },
+    {
+        "modality":"Cycling Men's 20 kilometres",
+        "total":68
+    },
+    {
+        "modality":"Cycling Men's 5,000 metres",
+        "total":68
+    },
+    {
+        "modality":"Wrestling Women's Flyweight, Freestyle",
+        "total":68
+    },
+    {
+        "modality":"Wrestling Women's Middleweight, Freestyle",
+        "total":68
+    },
+    {
+        "modality":"Weightlifting Women's Heavyweight",
+        "total":67
+    },
+    {
+        "modality":"Wrestling Women's Lightweight, Freestyle",
+        "total":67
+    },
+    {
+        "modality":"Weightlifting Women's Flyweight",
+        "total":67
+    },
+    {
+        "modality":"Skeleton Women's Skeleton",
+        "total":66
+    },
+    {
+        "modality":"Cycling Women's Individual Pursuit, 3,000 metres",
+        "total":66
+    },
+    {
+        "modality":"Art Competitions Mixed Painting, Drawings And Water Colors",
+        "total":65
+    },
+    {
+        "modality":"Sailing Mixed 12 metres",
+        "total":65
+    },
+    {
+        "modality":"Weightlifting Women's Super-Heavyweight",
+        "total":64
+    },
+    {
+        "modality":"Biathlon Mixed 2 x 6 kilometres and 2 x 7.5 kilometres Relay",
+        "total":64
+    },
+    {
+        "modality":"Wrestling Women's Heavyweight, Freestyle",
+        "total":64
+    },
+    {
+        "modality":"Freestyle Skiing Men's Ski Cross",
+        "total":64
+    },
+    {
+        "modality":"Shooting Mixed Free Rifle, Three Positions, 300 metres",
+        "total":63
+    },
+    {
+        "modality":"Fencing Men's Foil, Masters, Individual",
+        "total":63
+    },
+    {
+        "modality":"Athletics Men's 5 mile",
+        "total":63
+    },
+    {
+        "modality":"Freestyle Skiing Women's Ski Cross",
+        "total":63
+    },
+    {
+        "modality":"Art Competitions Mixed Painting, Graphic Arts",
+        "total":62
+    },
+    {
+        "modality":"Weightlifting Women's Middleweight",
+        "total":61
+    },
+    {
+        "modality":"Art Competitions Mixed Literature",
+        "total":60
+    },
+    {
+        "modality":"Shooting Men's Military Rifle, 200, 400, 500 and 600 metres, Team",
+        "total":60
+    },
+    {
+        "modality":"Fencing Women's Sabre, Team",
+        "total":60
+    },
+    {
+        "modality":"Lacrosse Men's Lacrosse",
+        "total":60
+    },
+    {
+        "modality":"Canoeing Men's Canadian Doubles, 10,000 metres",
+        "total":60
+    },
+    {
+        "modality":"Athletics Men's Standing High Jump",
+        "total":59
+    },
+    {
+        "modality":"Weightlifting Women's Featherweight",
+        "total":58
+    },
+    {
+        "modality":"Canoeing Women's Kayak Singles, 200 metres",
+        "total":57
+    },
+    {
+        "modality":"Canoeing Men's Kayak Singles, 10,000 metres",
+        "total":56
+    },
+    {
+        "modality":"Athletics Men's Javelin Throw, Freestyle",
+        "total":55
+    },
+    {
+        "modality":"Rowing Men's Coxed Fours, Outriggers",
+        "total":55
+    },
+    {
+        "modality":"Shooting Women's Double Trap",
+        "total":53
+    },
+    {
+        "modality":"Art Competitions Mixed Music",
+        "total":53
+    },
+    {
+        "modality":"Canoeing Men's Kayak Doubles, 200 metres",
+        "total":52
+    },
+    {
+        "modality":"Cycling Men's 100 kilometres",
+        "total":52
+    },
+    {
+        "modality":"Art Competitions Mixed Painting, Applied Arts",
+        "total":52
+    },
+    {
+        "modality":"Shooting Men's Small Bore-Rifle, Standing, 50 metres, Team",
+        "total":50
+    },
+    {
+        "modality":"Shooting Men's Free Rifle, 1,000 Yards",
+        "total":50
+    },
+    {
+        "modality":"Canoeing Men's Canadian Singles, 200 metres",
+        "total":50
+    },
+    {
+        "modality":"Shooting Men's Small-Bore Rifle, Standing, 50 metres",
+        "total":49
+    },
+    {
+        "modality":"Biathlon Women's 3 x 7.5 kilometres Relay",
+        "total":48
+    },
+    {
+        "modality":"Cycling Women's BMX",
+        "total":48
+    },
+    {
+        "modality":"Shooting Men's Military Rifle, 200\/500\/600\/800\/900\/1,000 Yards, Team",
+        "total":48
+    },
+    {
+        "modality":"Luge Mixed Team Relay",
+        "total":48
+    },
+    {
+        "modality":"Sailing Mixed 0.5-1 Ton",
+        "total":48
+    },
+    {
+        "modality":"Sailing Men's One Person Heavyweight Dinghy",
+        "total":47
+    },
+    {
+        "modality":"Shooting Men's Running Target, 50 metres",
+        "total":46
+    },
+    {
+        "modality":"Shooting Men's Military Pistol, Team",
+        "total":46
+    },
+    {
+        "modality":"Shooting Men's Military Rifle, Kneeling Or Standing, 300 metres",
+        "total":46
+    },
+    {
+        "modality":"Sailing Mixed Windsurfer",
+        "total":45
+    },
+    {
+        "modality":"Fencing Men's epee, Masters, Individual",
+        "total":45
+    },
+    {
+        "modality":"Shooting Men's Running Target, Double Shot, Team",
+        "total":45
+    },
+    {
+        "modality":"Cycling Women's Keirin",
+        "total":45
+    },
+    {
+        "modality":"Athletics Men's Discus Throw, Greek Style",
+        "total":44
+    },
+    {
+        "modality":"Shooting Men's Free Pistol, 50 yards",
+        "total":43
+    },
+    {
+        "modality":"Archery Men's Double York Round",
+        "total":43
+    },
+    {
+        "modality":"Shooting Men's Dueling Pistol, 30 metres",
+        "total":42
+    },
+    {
+        "modality":"Sailing Mixed 10 metres",
+        "total":42
+    },
+    {
+        "modality":"Canoeing Men's Kayak Singles, 200 metres",
+        "total":42
+    },
+    {
+        "modality":"Shooting Men's Small-Bore Rifle, Any Position, 50 metres",
+        "total":41
+    },
+    {
+        "modality":"Diving Women's Plain High",
+        "total":40
+    },
+    {
+        "modality":"Sailing Women's Skiff",
+        "total":40
+    },
+    {
+        "modality":"Art Competitions Mixed Literature, Unknown Event",
+        "total":39
+    },
+    {
+        "modality":"Wrestling Men's Middleweight A, Greco-Roman",
+        "total":38
+    },
+    {
+        "modality":"Cycling Women's Team Sprint",
+        "total":38
+    },
+    {
+        "modality":"Swimming Men's 400 metres Breaststroke",
+        "total":37
+    },
+    {
+        "modality":"Gymnastics Men's Individual All-Around, 5 Events",
+        "total":37
+    },
+    {
+        "modality":"Shooting Men's Small-Bore Rifle, Disappearing Target, 25 metres",
+        "total":36
+    },
+    {
+        "modality":"Cycling Men's Omnium",
+        "total":36
+    },
+    {
+        "modality":"Rowing Women's Coxless Fours",
+        "total":36
+    },
+    {
+        "modality":"Cycling Women's Omnium",
+        "total":36
+    },
+    {
+        "modality":"Shooting Men's Free Rifle, Any Position, 300 metres",
+        "total":35
+    },
+    {
+        "modality":"Snowboarding Men's Giant Slalom",
+        "total":34
+    },
+    {
+        "modality":"Art Competitions Mixed Music, Compositions For Orchestra",
+        "total":34
+    },
+    {
+        "modality":"Sailing Mixed 1-2 Ton",
+        "total":33
+    },
+    {
+        "modality":"Art Competitions Mixed Literature, Lyric Works",
+        "total":33
+    },
+    {
+        "modality":"Freestyle Skiing Men's Slopestyle",
+        "total":32
+    },
+    {
+        "modality":"Cycling Men's 333 metres Time Trial",
+        "total":32
+    },
+    {
+        "modality":"Snowboarding Men's Parallel Slalom",
+        "total":32
+    },
+    {
+        "modality":"Snowboarding Women's Parallel Slalom",
+        "total":32
+    },
+    {
+        "modality":"Art Competitions Mixed Architecture",
+        "total":32
+    },
+    {
+        "modality":"Swimming Men's One Mile Freestyle",
+        "total":31
+    },
+    {
+        "modality":"Archery Women's Double National Round",
+        "total":31
+    },
+    {
+        "modality":"Snowboarding Women's Giant Slalom",
+        "total":31
+    },
+    {
+        "modality":"Shooting Men's Military Rifle, 1873-1874 Gras Model, Kneeling Or Standing, 200 metres",
+        "total":31
+    },
+    {
+        "modality":"Shooting Men's Military Revolver, 1873-1874 Gras Model, 20 metres",
+        "total":31
+    },
+    {
+        "modality":"Shooting Men's Military Revolver, 20 metres",
+        "total":31
+    },
+    {
+        "modality":"Equestrianism Mixed Four-In-Hand Competition",
+        "total":31
+    },
+    {
+        "modality":"Rowing Men's Coxed Fours, Inriggers",
+        "total":30
+    },
+    {
+        "modality":"Ski Jumping Women's Normal Hill, Individual",
+        "total":30
+    },
+    {
+        "modality":"Athletics Men's 3,000 metres Walk",
+        "total":30
+    },
+    {
+        "modality":"Shooting Men's Free Rifle, Kneeling, 300 metres",
+        "total":30
+    },
+    {
+        "modality":"Shooting Men's Free Rifle, Prone, 300 metres",
+        "total":30
+    },
+    {
+        "modality":"Shooting Men's Free Rifle, Standing, 300 metres",
+        "total":30
+    },
+    {
+        "modality":"Golf Men's Team",
+        "total":30
+    },
+    {
+        "modality":"Cycling Women's 500 metres Time Trial",
+        "total":29
+    },
+    {
+        "modality":"Wrestling Men's Middleweight B, Greco-Roman",
+        "total":29
+    },
+    {
+        "modality":"Fencing Men's Sabre, Masters, Individual",
+        "total":29
+    },
+    {
+        "modality":"Swimming Men's 4,000 metres Freestyle",
+        "total":29
+    },
+    {
+        "modality":"Tennis Men's Singles, Covered Courts",
+        "total":29
+    },
+    {
+        "modality":"Snowboarding Men's Slopestyle",
+        "total":29
+    },
+    {
+        "modality":"Athletics Men's 1,600 metres Medley Relay",
+        "total":29
+    },
+    {
+        "modality":"Sailing Mixed 3-10 Ton",
+        "total":29
+    },
+    {
+        "modality":"Shooting Men's Free Pistol, 50 yards, Team",
+        "total":28
+    },
+    {
+        "modality":"Rowing Men's 6-Man Naval Rowing Boats",
+        "total":28
+    },
+    {
+        "modality":"Freestyle Skiing Men's Halfpipe",
+        "total":28
+    },
+    {
+        "modality":"Shooting Men's Dueling Pistol, 30 metres, Team",
+        "total":28
+    },
+    {
+        "modality":"Athletics Men's 3 mile, Team",
+        "total":28
+    },
+    {
+        "modality":"Shooting Men's Free Pistol, 25 metres",
+        "total":28
+    },
+    {
+        "modality":"Athletics Men's Pentathlon (Ancient)",
+        "total":26
+    },
+    {
+        "modality":"Tennis Men's Doubles, Covered Courts",
+        "total":26
+    },
+    {
+        "modality":"Canoeing Men's Folding Kayak Doubles, 10 kilometres",
+        "total":26
+    },
+    {
+        "modality":"Art Competitions Mixed Sculpturing, Medals And Reliefs",
+        "total":26
+    },
+    {
+        "modality":"Art Competitions Mixed Literature, Epic Works",
+        "total":26
+    },
+    {
+        "modality":"Shooting Men's Running Target, Single And Double Shot",
+        "total":25
+    },
+    {
+        "modality":"Archery Men's Continental Style",
+        "total":25
+    },
+    {
+        "modality":"Athletics Men's 3,500 metres Walk",
+        "total":25
+    },
+    {
+        "modality":"Alpinism Mixed Alpinism",
+        "total":25
+    },
+    {
+        "modality":"Athletics Men's 10 mile Walk",
+        "total":25
+    },
+    {
+        "modality":"Boxing Women's Flyweight",
+        "total":24
+    },
+    {
+        "modality":"Boxing Women's Lightweight",
+        "total":24
+    },
+    {
+        "modality":"Archery Men's Target Archery, 28 metres, Team",
+        "total":24
+    },
+    {
+        "modality":"Cricket Men's Cricket",
+        "total":24
+    },
+    {
+        "modality":"Canoeing Men's Canadian Singles, 10,000 metres",
+        "total":24
+    },
+    {
+        "modality":"Boxing Women's Middleweight",
+        "total":24
+    },
+    {
+        "modality":"Military Ski Patrol Men's Military Ski Patrol",
+        "total":24
+    },
+    {
+        "modality":"Swimming Men's 4 x 250 metres Freestyle Relay",
+        "total":24
+    },
+    {
+        "modality":"Athletics Men's 3,200 metres Steeplechase",
+        "total":24
+    },
+    {
+        "modality":"Rowing Men's Coxed Pairs (1 kilometres)",
+        "total":24
+    },
+    {
+        "modality":"Shooting Men's Dueling Pistol Au Vise 20 metres",
+        "total":24
+    },
+    {
+        "modality":"Shooting Men's Small-Bore Rifle, Prone, 50 metres, Team",
+        "total":24
+    },
+    {
+        "modality":"Freestyle Skiing Women's Halfpipe",
+        "total":23
+    },
+    {
+        "modality":"Snowboarding Women's Slopestyle",
+        "total":23
+    },
+    {
+        "modality":"Speed Skating Men's Allround",
+        "total":23
+    },
+    {
+        "modality":"Shooting Men's Military Rifle, Prone, 300 metres",
+        "total":22
+    },
+    {
+        "modality":"Shooting Men's Small-Bore Rifle, Disappearing Target, 25 yards",
+        "total":22
+    },
+    {
+        "modality":"Shooting Men's Small-Bore Rifle, Moving Target, 25 yards",
+        "total":22
+    },
+    {
+        "modality":"Freestyle Skiing Women's Slopestyle",
+        "total":22
+    },
+    {
+        "modality":"Athletics Men's 60 metres",
+        "total":22
+    },
+    {
+        "modality":"Archery Men's Double American Round",
+        "total":22
+    },
+    {
+        "modality":"Shooting Men's Dueling Pistol Au Commandement, 25 metres",
+        "total":22
+    },
+    {
+        "modality":"Fencing Men's Sabre, Individual, Three Hits",
+        "total":21
+    },
+    {
+        "modality":"Rowing Men's Coxed Pairs (1 mile)",
+        "total":21
+    },
+    {
+        "modality":"Shooting Men's Small-Bore Rifle, Prone, 50 and 100 yards",
+        "total":20
+    },
+    {
+        "modality":"Cycling Men's Team Pursuit, 1,980 yards",
+        "total":20
+    },
+    {
+        "modality":"Shooting Men's Military Rifle, 200 metres",
+        "total":20
+    },
+    {
+        "modality":"Athletics Men's Discus Throw, Both Hands",
+        "total":20
+    },
+    {
+        "modality":"Weightlifting Men's Unlimited, Two Hands",
+        "total":20
+    },
+    {
+        "modality":"Wrestling Women's Featherweight, Freestyle",
+        "total":19
+    },
+    {
+        "modality":"Wrestling Women's Light-Heavyweight, Freestyle",
+        "total":18
+    },
+    {
+        "modality":"Equestrianism Mixed Hacks And Hunter Combined",
+        "total":18
+    },
+    {
+        "modality":"Equestrianism Men's Vaulting, Individual",
+        "total":18
+    },
+    {
+        "modality":"Swimming Men's 200 metres Team Swimming",
+        "total":18
+    },
+    {
+        "modality":"Shooting Men's Military Rifle, Prone, 600 metres",
+        "total":18
+    },
+    {
+        "modality":"Art Competitions Mixed Sculpturing, Medals",
+        "total":18
+    },
+    {
+        "modality":"Athletics Men's 56-pound Weight Throw",
+        "total":18
+    },
+    {
+        "modality":"Art Competitions Mixed Music, Unknown Event",
+        "total":18
+    },
+    {
+        "modality":"Sailing Mixed 0-0.5 Ton",
+        "total":17
+    },
+    {
+        "modality":"Swimming Men's 4 x 50 Yard Freestyle Relay",
+        "total":16
+    },
+    {
+        "modality":"Athletics Men's Stone Throw",
+        "total":16
+    },
+    {
+        "modality":"Tennis Mixed Doubles, Covered Courts",
+        "total":16
+    },
+    {
+        "modality":"Archery Men's Target Archery, 33 metres, Team",
+        "total":16
+    },
+    {
+        "modality":"Archery Men's Target Archery, 50 metres, Team",
+        "total":16
+    },
+    {
+        "modality":"Weightlifting Men's Unlimited, One Hand",
+        "total":16
+    },
+    {
+        "modality":"Swimming Women's 300 metres Freestyle",
+        "total":16
+    },
+    {
+        "modality":"Shooting Men's Small-Bore Rifle, Disappearing Target, 25 metres, Team",
+        "total":16
+    },
+    {
+        "modality":"Archery Men's Team Round",
+        "total":16
+    },
+    {
+        "modality":"Swimming Men's 1,000 metres Freestyle",
+        "total":16
+    },
+    {
+        "modality":"Athletics Men's 200 metres Hurdles",
+        "total":16
+    },
+    {
+        "modality":"Shooting Men's Military Rifle, Standing, 300 metres",
+        "total":16
+    },
+    {
+        "modality":"Shooting Men's Military Pistol, 25 metres",
+        "total":16
+    },
+    {
+        "modality":"Tennis Women's Singles, Covered Courts",
+        "total":15
+    },
+    {
+        "modality":"Art Competitions Mixed Unknown Event",
+        "total":15
+    },
+    {
+        "modality":"Sailing Mixed 2-3 Ton",
+        "total":15
+    },
+    {
+        "modality":"Athletics Men's Javelin Throw, Both Hands",
+        "total":14
+    },
+    {
+        "modality":"Swimming Men's Underwater Swimming",
+        "total":14
+    },
+    {
+        "modality":"Athletics Men's Standing Triple Jump",
+        "total":14
+    },
+    {
+        "modality":"Canoeing Men's Folding Kayak Singles, 10 kilometres",
+        "total":13
+    },
+    {
+        "modality":"Sailing Mixed 7 metres",
+        "total":12
+    },
+    {
+        "modality":"Shooting Men's Small-Bore Rifle, 50 and 100 yards, Team",
+        "total":12
+    },
+    {
+        "modality":"Cycling Men's 1\/2 mile",
+        "total":12
+    },
+    {
+        "modality":"Swimming Men's 200 metres Obstacle Course",
+        "total":12
+    },
+    {
+        "modality":"Gymnastics Men's Parallel Bars, Teams",
+        "total":12
+    },
+    {
+        "modality":"Shooting Men's Trap, Single Shot, 16 metres",
+        "total":12
+    },
+    {
+        "modality":"Cycling Men's 1\/4 mile",
+        "total":11
+    },
+    {
+        "modality":"Shooting Men's Military Pistol, 30 metres",
+        "total":11
+    },
+    {
+        "modality":"Art Competitions Mixed Music, Instrumental And Chamber",
+        "total":11
+    },
+    {
+        "modality":"Jeu De Paume Men's Singles",
+        "total":11
+    },
+    {
+        "modality":"Cycling Men's 25 mile",
+        "total":10
+    },
+    {
+        "modality":"Cycling Men's 25 kilometres",
+        "total":10
+    },
+    {
+        "modality":"Athletics Men's 5,000 metres, Team",
+        "total":10
+    },
+    {
+        "modality":"Gymnastics Men's Horizontal Bar, Teams",
+        "total":10
+    },
+    {
+        "modality":"Athletics Men's 4 mile, Team",
+        "total":10
+    },
+    {
+        "modality":"Shooting Men's Trap, Double Shot, 14 metres",
+        "total":10
+    },
+    {
+        "modality":"Cycling Men's 5 mile",
+        "total":9
+    },
+    {
+        "modality":"Croquet Mixed Singles, One Ball",
+        "total":9
+    },
+    {
+        "modality":"Athletics Men's 1,500 metres Walk",
+        "total":9
+    },
+    {
+        "modality":"Equestrianism Men's Vaulting, Team",
+        "total":9
+    },
+    {
+        "modality":"Sailing Mixed 40 metres",
+        "total":8
+    },
+    {
+        "modality":"Art Competitions Mixed Music, Compositions For Solo Or Chorus",
+        "total":8
+    },
+    {
+        "modality":"Fencing Men's epee, Masters and Amateurs, Individual",
+        "total":8
+    },
+    {
+        "modality":"Archery Men's Au Cordon Dore, 50 metres",
+        "total":8
+    },
+    {
+        "modality":"Athletics Men's 4,000 metres Steeplechase",
+        "total":8
+    },
+    {
+        "modality":"Art Competitions Mixed Literature, Dramatic Works",
+        "total":8
+    },
+    {
+        "modality":"Cycling Men's 1 mile",
+        "total":8
+    },
+    {
+        "modality":"Art Competitions Mixed Sculpturing, Medals And Plaques",
+        "total":8
+    },
+    {
+        "modality":"Croquet Mixed Singles, Two Balls",
+        "total":8
+    },
+    {
+        "modality":"Equestrianism Mixed Long Jump",
+        "total":8
+    },
+    {
+        "modality":"Athletics Men's Shot Put, Both Hands",
+        "total":7
+    },
+    {
+        "modality":"Gymnastics Men's Club Swinging",
+        "total":7
+    },
+    {
+        "modality":"Motorboating Mixed A-Class (Open)",
+        "total":7
+    },
+    {
+        "modality":"Athletics Men's All-Around Championship",
+        "total":7
+    },
+    {
+        "modality":"Athletics Men's 2,590 metres Steeplechase",
+        "total":7
+    },
+    {
+        "modality":"Cycling Men's 12-Hours Race",
+        "total":7
+    },
+    {
+        "modality":"Swimming Men's 880 yard Freestyle",
+        "total":6
+    },
+    {
+        "modality":"Swimming Men's 1,200 metres Freestyle",
+        "total":6
+    },
+    {
+        "modality":"Racquets Men's Singles",
+        "total":6
+    },
+    {
+        "modality":"Racquets Men's Doubles",
+        "total":6
+    },
+    {
+        "modality":"Sailing Mixed 10-20 Ton",
+        "total":6
+    },
+    {
+        "modality":"Cycling Men's 1\/3 mile",
+        "total":6
+    },
+    {
+        "modality":"Swimming Men's 100 Yard Backstroke",
+        "total":6
+    },
+    {
+        "modality":"Sailing Mixed 6.5 metres",
+        "total":6
+    },
+    {
+        "modality":"Athletics Men's 2,500 metres Steeplechase",
+        "total":6
+    },
+    {
+        "modality":"Archery Men's Pole Archery, Small Birds, Individual",
+        "total":6
+    },
+    {
+        "modality":"Archery Men's Pole Archery, Large Birds, Individual",
+        "total":6
+    },
+    {
+        "modality":"Archery Men's Pole Archery, Small Birds, Team",
+        "total":6
+    },
+    {
+        "modality":"Archery Men's Pole Archery, Large Birds, Team",
+        "total":6
+    },
+    {
+        "modality":"Archery Women's Double Columbia Round",
+        "total":6
+    },
+    {
+        "modality":"Swimming Men's 50 yard Freestyle",
+        "total":6
+    },
+    {
+        "modality":"Swimming Men's 100 yard Freestyle",
+        "total":6
+    },
+    {
+        "modality":"Cycling Men's 10,000 metres",
+        "total":6
+    },
+    {
+        "modality":"Art Competitions Mixed Sculpturing, Reliefs",
+        "total":6
+    },
+    {
+        "modality":"Equestrianism Mixed High Jump",
+        "total":6
+    },
+    {
+        "modality":"Archery Men's Unknown Event",
+        "total":6
+    },
+    {
+        "modality":"Swimming Men's Plunge For Distance",
+        "total":5
+    },
+    {
+        "modality":"Sailing Mixed 12 foot",
+        "total":5
+    },
+    {
+        "modality":"Art Competitions Mixed Music, Vocals",
+        "total":5
+    },
+    {
+        "modality":"Cycling Men's 2 mile",
+        "total":5
+    },
+    {
+        "modality":"Shooting Men's Free Pistol, 30 metres",
+        "total":5
+    },
+    {
+        "modality":"Gymnastics Men's Individual All-Around, 4 Events",
+        "total":5
+    },
+    {
+        "modality":"Wrestling Men's Unlimited Class, Greco-Roman",
+        "total":5
+    },
+    {
+        "modality":"Motorboating Mixed B-Class (Under 60 Feet)",
+        "total":5
+    },
+    {
+        "modality":"Motorboating Mixed C-Class",
+        "total":5
+    },
+    {
+        "modality":"Swimming Men's 220 yard Freestyle",
+        "total":4
+    },
+    {
+        "modality":"Swimming Men's 440 Yard Breaststroke",
+        "total":4
+    },
+    {
+        "modality":"Roque Men's Singles",
+        "total":4
+    },
+    {
+        "modality":"Sailing Mixed 20+ Ton",
+        "total":4
+    },
+    {
+        "modality":"Swimming Men's 440 yard Freestyle",
+        "total":4
+    },
+    {
+        "modality":"Shooting Men's Muzzle-Loading Pistol, 25 metres",
+        "total":4
+    },
+    {
+        "modality":"Gymnastics Men's Tumbling",
+        "total":4
+    },
+    {
+        "modality":"Archery Men's Au Chapelet, 50 metres",
+        "total":4
+    },
+    {
+        "modality":"Archery Women's Team Round",
+        "total":4
+    },
+    {
+        "modality":"Sailing Mixed 30 metres",
+        "total":3
+    },
+    {
+        "modality":"Figure Skating Men's Special Figures",
+        "total":3
+    },
+    {
+        "modality":"Swimming Men's 100 metres Freestyle For Sailors",
+        "total":3
+    },
+    {
+        "modality":"Archery Men's Sur La Perche a La Herse",
+        "total":3
+    },
+    {
+        "modality":"Archery Men's Sur La Perche a La Pyramide",
+        "total":3
+    },
+    {
+        "modality":"Fencing Men's Single Sticks, Individual",
+        "total":3
+    },
+    {
+        "modality":"Shooting Men's Unknown Event",
+        "total":3
+    },
+    {
+        "modality":"Wrestling Men's All-Around, Greco-Roman",
+        "total":3
+    },
+    {
+        "modality":"Swimming Men's 500 metres Freestyle",
+        "total":3
+    },
+    {
+        "modality":"Weightlifting Men's All-Around Dumbbell Contest",
+        "total":3
+    },
+    {
+        "modality":"Archery Men's Au Chapelet, 33 metres",
+        "total":3
+    },
+    {
+        "modality":"Archery Men's Au Cordon Dore, 33 metres",
+        "total":3
+    },
+    {
+        "modality":"Croquet Mixed Doubles",
+        "total":2
+    },
+    {
+        "modality":"Archery Men's Target Archery, 33 metres, Individual",
+        "total":2
+    },
+    {
+        "modality":"Archery Men's Target Archery, 50 metres, Individual",
+        "total":2
+    },
+    {
+        "modality":"Basque Pelota Men's Two-Man Teams With Cesta",
+        "total":2
+    },
+    {
+        "modality":"Sailing Mixed 18 foot",
+        "total":2
+    },
+    {
+        "modality":"Archery Men's Championnat Du Monde",
+        "total":2
+    },
+    {
+        "modality":"Archery Men's Target Archery, 28 metres, Individual",
+        "total":2
+    },
+    {
+        "modality":"Aeronautics Mixed Aeronautics",
+        "total":1
+    }
+]
